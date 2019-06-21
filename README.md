@@ -1,0 +1,1 @@
+These are some training projects in Python.
